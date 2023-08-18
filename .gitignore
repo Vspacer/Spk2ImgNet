@@ -23,6 +23,15 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+results/
+ckpt/
+ckpt2/
+old_ckpt/
+Spk2ImgNet_test2/
+Spk2ImgNet_train/
+*.zip
+*.pth
+*.h5
 *.egg-info/
 .installed.cfg
 *.egg
