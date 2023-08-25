@@ -47,8 +47,9 @@ The training data can be downloaded in the Google Drive link below
 
 [Link for training data](https://drive.google.com/file/d/1ozR2-fNmU10gA_TCYUfJN-ahV6e_8Ke7/view?usp=sharing)
 
-## Evaluate
-### You can set the data path in the .py files or through argparser (--data)
+## Evaluate 
+
+You can set the data path in the .py files or through argparser (--data)
 
 ```bash
 python3 main_steflow_dt1.py \
@@ -62,7 +63,7 @@ python3 main_steflow_dt1.py \
 
 
 All the command line arguments for hyperparameter tuning can be found in the `train.py` file.
-### You can set the data path in the .py files or through argparser (--data)
+You can set the data path in the .py files or through argparser (--data)
 
 ```bash
 python3 train.py
