@@ -16,7 +16,7 @@ Paper:
   * [Evaluate](#Evaluate)
   * [Train](#Train)
   * [Citation](#Citations)
-  * [Acknowledgement](#Acknowledgement)
+
 
 ## Environments
 
